@@ -1,3 +1,2 @@
 build/*
-emscripten/*
-!CMakeLists.txt
+emscripten/build/*
